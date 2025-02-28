@@ -6,7 +6,7 @@ CryptoClicker is a simple Web3-based clicker game where players earn points by c
 - Click to earn points.
 - Connect MetaMask wallet.
 - Mint an NFT after reaching 10 clicks.
-- Simple and interactive UI.
+- Simple and interactive UI. 
 
 ## Installation
 
