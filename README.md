@@ -33,7 +33,7 @@ CryptoClicker is a simple Web3-based clicker game where players earn points by c
 4. Enjoy your unique NFT!
 
 ## Tech Stack
-- **React (Next.js)** – Frontend framework
+- **React (Next.js)** – Frontend framework 
 - **ethers.js** – Ethereum wallet connection
 - **TailwindCSS** – Styling
 
