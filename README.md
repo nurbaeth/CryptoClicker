@@ -18,7 +18,7 @@ CryptoClicker is a simple Web3-based clicker game where players earn points by c
 
 2. Install dependencies:
    ```bash
-   npm install
+   npm install 
    ```
 
 3. Run the development server:
