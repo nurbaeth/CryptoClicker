@@ -11,7 +11,7 @@ CryptoClicker is a simple Web3-based clicker game where players earn points by c
 ## Installation
   
 1. Clone the repository:  
-   ```bash  
+   ```bash   
    git clone https://github.com/yourusername/cryptoclicker.git
    cd cryptoclicker
    ```  
